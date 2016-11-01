@@ -48,4 +48,4 @@ Associate Data Scientist
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[rajatgupta.tps@gmail.com](mailto:rajatgupta.tps@gmail.com)
