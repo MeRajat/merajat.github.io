@@ -18,15 +18,13 @@ Associate Data Scientist
 
 ## Skills
 
-* **Languages** - `GoLang` / `Python` / `Scala` / `C++`/ `JAVA`/ `Shell Script`
-* **DataBases** - `MySQL` / `MongoDB` / `Redis` / `RethinkDB`
-* **Tools and Packages** - `Spark` / `Hadoop` / `Kafka` 
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Languages** - `GoLang ` / `Python ` / `Scala ` / `C++ ` / `JAVA `/ `Shell Script `
+* **DataBases** - `MySQL ` / `MongoDB ` / `Redis ` / `RethinkDB`
+* **Tools and Packages** - `Spark ` / `Hadoop ` / `Kafka `/`scikit-learn `/ `NUMPY `/`Mllib `/`Pandas `
+
     
     
-## Achievements
+<!-- ## Achievements
 
 
 * [**This is my first achievement**](#) 
@@ -43,7 +41,7 @@ Associate Data Scientist
 
 * [**This is my third achievement**](#) 
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula -->
 
 
 ## Contact me
