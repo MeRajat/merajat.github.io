@@ -4,27 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+A Data scientist, Programmer(Functional Programmer), Curious, Cricket Fan :) .Currently working on NLP. 
 
 ## Education
 
+<!-- * B.Tech in Computer Science
 * ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* ABC degree from XYZ University. -->
 
 ## Roles
 
-Founder, ABC Organisation
+Associate Data Scientist
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
+* **Languages** - `GoLang` / `Python` / `Scala` / `C++`/ `JAVA`/ `Shell Script`
+* **DataBases** - `MySQL` / `MongoDB` / `Redis` / `RethinkDB`
+* **Tools and Packages** - `Spark` / `Hadoop` / `Kafka` 
 * **Skill 4** - `Skill` / `Skill` / `Skill` 
 * **Skill 5** - `Skill`
 * **Skill 6** - `Skill` / `Skill` 
